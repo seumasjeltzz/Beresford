@@ -8,6 +8,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 * Fergus Walsh
 * Dr. Seumas MacDonald
+
 If you would like to contribute to this project, please see [here](https://greek-learner-texts.org/) on how to join the Greek Learner Texts Project Slack group.
 
 ## Source
